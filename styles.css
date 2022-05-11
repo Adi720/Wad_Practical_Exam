@@ -1,9 +1,13 @@
 h1 {
     font-size: 32px;
-    color: aqua;
+    color: #111;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
     font-size: 24px;
-    color: bisque;
+    color: #001c25;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
